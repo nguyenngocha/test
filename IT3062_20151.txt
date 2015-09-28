@@ -1,0 +1,7 @@
+Subject ID|IT3062
+Subject Name|Thuc Hanh Mang
+F|30|70
+semester|20151
+studentNumber|50
+s|20121621|Nguyen Ngoc|Ha|10|9|A
+s|20121651|Nguyen Xuan|Hai|9|8|B

@@ -1,0 +1,5 @@
+Subject ID|IT3011
+Subject Name|Mach logic
+F|40|60
+semester|20142
+studentNumber|50

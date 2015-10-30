@@ -2,6 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include "mylibrary.h"
+//#include <stdlib.h>
 
 
   void thongtin(char* ss){
